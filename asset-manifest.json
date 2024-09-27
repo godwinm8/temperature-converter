@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/temperature-converter/static/css/main.62fd2904.css",
+    "main.js": "/temperature-converter/static/js/main.49b7c5f5.js",
+    "static/js/453.f53292f2.chunk.js": "/temperature-converter/static/js/453.f53292f2.chunk.js",
+    "index.html": "/temperature-converter/index.html",
+    "main.62fd2904.css.map": "/temperature-converter/static/css/main.62fd2904.css.map",
+    "main.49b7c5f5.js.map": "/temperature-converter/static/js/main.49b7c5f5.js.map",
+    "453.f53292f2.chunk.js.map": "/temperature-converter/static/js/453.f53292f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62fd2904.css",
+    "static/js/main.49b7c5f5.js"
+  ]
+}
